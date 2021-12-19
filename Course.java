@@ -1,7 +1,3 @@
-// Inthuyen Naguleswaran
-// 500978904
-
-
 public class Course implements Comparable<Course>
 {
 	private String code;

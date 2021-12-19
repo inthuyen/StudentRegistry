@@ -1,5 +1,3 @@
-// Inthuyen Naguleswaran
-// 500978904
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;

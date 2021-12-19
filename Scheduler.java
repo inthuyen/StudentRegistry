@@ -1,5 +1,3 @@
-// Inthuyen Naguleswaran
-// 500978904
 import java.util.ArrayList;
 import java.util.Set;
 import java.util.TreeMap;
